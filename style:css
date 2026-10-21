@@ -25,8 +25,8 @@ body {
 }
 
 header{ 
-    background-color: var(--cor-primaria)
-    color; var--cor- var(--cor-texto);
+    background-color: var(--cor-primaria);
+    color: var--cor-var(--cor-texto);
     text-align: center;
      margin: 0 auto;
     padding: 16px;
